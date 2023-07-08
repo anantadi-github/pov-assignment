@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import './App.css';
-import CarouselContainer from './components/CarouselNew';
+import CarouselContainer from './components/Carousel-container';
 import PlayArrowIcon from '@mui/icons-material/PlayArrow';
 import PauseIcon from '@mui/icons-material/Pause';
 
